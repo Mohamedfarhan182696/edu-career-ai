@@ -1,0 +1,16 @@
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+sqlalchemy==2.0.35
+psycopg2-binary==2.9.9
+pydantic==2.9.2
+python-jose[cryptography]==3.3.0
+passlib[bcrypt]==1.7.4
+python-multipart==0.0.12
+langchain==0.3.7
+langchain-community==0.3.7
+sentence-transformers==3.1.1
+xgboost==2.1.1
+pandas==2.2.2
+scikit-learn==1.5.1
+chromadb==0.5.11
+numpy==1.26.4
